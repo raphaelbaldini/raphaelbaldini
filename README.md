@@ -1,8 +1,7 @@
 <h1 align="center">
   <p align="center">Raphael Baldini</p>
   <a><img src="There-is-no-cloud.png" alt="Docusaurus"></a>
-</h1>git add 
-
+</h1>
 <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
     <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
@@ -25,7 +24,4 @@
     <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
     <a href="https://www.couchbase.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" alt="Couchbase" width="40" height="40"/> </a> </p>
     <a href="https://br.cloudera.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cloudera/cloudera-icon.svg" alt="Cloudera" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uknbr&show_icons=true&locale=en" alt="uknbr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uknbr&" alt="uknbr" /></p>
+</p>

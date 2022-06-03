@@ -1,6 +1,6 @@
 <h1 align="center">
-  <p align="center">Raphael Baldini</p>
-  <a><img src="There-is-no-cloud.png" alt="There-is-no-cloud"></a>
+  <h2 align='center'><samp><strong>Hi there 👋, I am Raphael Baldini</strong></samp></h2>
+  <a><img src="There-is-no-cloud.png" alt="There-is-no-cloud" width="150" height="100"></a>
 </h1>
 <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 

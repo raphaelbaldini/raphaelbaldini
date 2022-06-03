@@ -41,7 +41,7 @@
   <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="k8s"/></a>
 </p>
 <p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=raphaelbaldini"/>
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Githug Statistics"  width="330px" height="240px" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelbaldini&"/>
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="IMAGE" width="320px" height="240px" src="git_simply_explained.png" />
+  <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=raphaelbaldini"/>
+  <img style="border-radius: 5px; margin-bottom: 5px" alt="Githug Statistics"  width="330px" height="240px" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelbaldini&"/>
+  <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="IMAGE" width="320px" height="240px" src="git_simply_explained.jpg" />
 </p>

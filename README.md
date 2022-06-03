@@ -10,7 +10,7 @@
 <p align='left'> 📫 As someone who is always passionate for learning more about life. I like to develop scripts to make the things easier. I have evolved into a Infrastructure career path, starting as DBA and moving foward to DevOps area.</p>
 
 <h3 align="left">Languages and Tools:</h3>
-<table border-collapse: collapse>
+<table border: none>
   <tr>
     <th href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws"/></th>
     <th href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux"/></th> 
@@ -41,7 +41,7 @@
   <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker"/></a>
   <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="k8s"/></a>
 </p>
-<table border-collapse: collapse>
+<table border: none>
   <tr>
     <td><img alt="Github Contribution Stats" src="https://github-contribution-stats.vercel.app/api/?username=raphaelbaldini"/></td>
     <td rowspan="2"><img alt="IMAGE" src="git_simply_explained.jpg"/></td>

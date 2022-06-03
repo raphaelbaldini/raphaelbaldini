@@ -1,6 +1,14 @@
+-->
+📝 ***Feel free to contact me. I'll answer as soon as I can ...***  [![Github](https://img.shields.io/github/followers/raphaelbaldini?label=Follow%20Me&style=social)](https://github.com/raphaelbaldini)
+<br>
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Raphael%20Baldini-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/rbaldini01/)
+[![Mail](https://img.shields.io/badge/Yahoo-raphaelbaldini@yahoo.com.br-blue?logo=Yahoo&logoColor=blue&labelColor=black)](mailto:raphaelbaldini@yahoo.com.br)
+<br> -->
+
 <h1 align="center">
+  <a><img src="There-is-no-cloud.png" alt="There-is-no-cloud"></a>
   <h2 align='center'><samp><strong>Hi there 👋, I am Raphael Baldini</strong></samp></h2>
-  <a><img src="There-is-no-cloud.png" alt="There-is-no-cloud" width="150" height="100"></a>
 </h1>
 <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 

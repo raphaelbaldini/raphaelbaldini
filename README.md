@@ -37,7 +37,7 @@
 
 **Interested:** <br>
 <p align="left"> 
-  <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="20" height="35"/></a>
-  <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="aws" width="20" height="35"/></a>
-  <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="aws" width="20" height="35"/></a>
+  <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws"/></a>
+  <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker"/></a>
+  <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="k8s"/></a>
 </p>

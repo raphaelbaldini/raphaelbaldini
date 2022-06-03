@@ -1,8 +1,8 @@
 -->
-📝 ***Feel free to contact me. I'll answer as soon as I can ...***  [![Github](https://img.shields.io/github/followers/raphaelbaldini?label=Follow%20Me&style=social)](https://github.com/raphaelbaldini)
+📝 ***Feel free to contact me. I'll answer as soon as I can ...  ***    [![Github](https://img.shields.io/github/followers/raphaelbaldini?label=Follow%20Me&style=social)](https://github.com/raphaelbaldini)
+<br />
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Raphael%20Baldini-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/rbaldini01/)
 [![Mail](https://img.shields.io/badge/Yahoo-raphaelbaldini@yahoo.com.br-blue?logo=Yahoo&logoColor=blue&labelColor=black)](mailto:raphaelbaldini@yahoo.com.br)
-<br />
 <br />
 <h1 align="center"><a><img src="There-is-no-cloud.png" alt="There-is-no-cloud"></a></h1>
 <h2 align='center'>Hi there 👋, I am <strong>Raphael Baldini</strong></h2>

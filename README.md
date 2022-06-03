@@ -44,10 +44,10 @@
 </p>
 <table>
   <tr>
-    <td><img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" src="https://github-contribution-stats.vercel.app/api/?username=raphaelbaldini"/></td>
-    <td rowspan="2"><img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="IMAGE" src="git_simply_explained.jpg"/></td>
+    <td><img alt="Github Contribution Stats" src="https://github-contribution-stats.vercel.app/api/?username=raphaelbaldini"/></td>
+    <td rowspan="2"><img alt="IMAGE" src="git_simply_explained.jpg"/></td>
   </tr>
   <tr>
-    <td><img style="border-radius: 5px; margin-bottom: 5px" alt="Githug Statistics" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelbaldini&"/></td>
+    <td><img alt="Githug Statistics" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelbaldini&"/></td>
   </tr>
 </table>

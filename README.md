@@ -43,10 +43,10 @@
 </p>
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td><img alt="Github Contribution Stats" src="https://github-contribution-stats.vercel.app/api/?username=raphaelbaldini"/></td>
-    <td rowspan="2"><img alt="IMAGE" src="git_simply_explained.jpg"/></td>
+    <td align="center"><img alt="Github Contribution Stats" src="https://github-contribution-stats.vercel.app/api/?username=raphaelbaldini"/></td>
+    <td align="center" rowspan="2"><img align="center" alt="IMAGE" src="git_simply_explained.jpg"/></td>
   </tr>
   <tr>
-    <td><img alt="Githug Statistics" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelbaldini&"/></td>
+    <td align="center"><img alt="Githug Statistics" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelbaldini&"/></td>
   </tr>
 </table>

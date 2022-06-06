@@ -1,4 +1,4 @@
-***Feel free to contact me. I'll answer as soon as I can ...  ***    
+<h3>*** Feel free to contact me. I'll answer as soon as I can ... *** </h3>
 <br />
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Raphael%20Baldini-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/rbaldini01/)
 [![Mail](https://img.shields.io/badge/Yahoo-raphaelbaldini@yahoo.com.br-blue?logo=Yahoo&logoColor=blue&labelColor=black)](mailto:raphaelbaldini@yahoo.com.br)
@@ -50,5 +50,4 @@
   </tr>
 </table>
 
-
-label=Follow%20Me&style=social)](https://github.com/raphaelbaldini)
+[![Github](https://img.shields.io/github/followers/raphaelbaldini?label=Follow%20Me&style=social)](https://github.com/raphaelbaldini)

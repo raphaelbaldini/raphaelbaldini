@@ -9,9 +9,8 @@
 <h2 align='center'>Hi there 👋, I am <strong>Raphael Baldini</strong></h2>
 <p align='center'>DevOps Expert | Technical Manager | AWS Expert </p>
 <p align='left'> 📫 As someone who is always passionate for learning more about life. I like to develop scripts to make the things easier. I have evolved into a Infrastructure career path, starting as DBA and moving foward to DevOps area.</p>
-
 <h3 align="left">Languages and Tools:</h3>
-<table cellspacing="0" cellpadding="0">
+<table  style="border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
   <tr>
     <th href="https://aws.amazon.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws"/></th>
     <th href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux"/></th> 
@@ -36,7 +35,7 @@
     <th href="https://groovy-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/groovehq/groovehq-icon.svg" alt="groovy"/></th>
   </tr>
 </table>
-<h3 align="left">**Interested:**</h3>
+<h3 align="left">Interested:</h3>
 <p align="left"> 
   <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws"/></a>
   <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker"/></a>
